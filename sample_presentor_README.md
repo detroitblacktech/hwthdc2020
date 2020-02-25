@@ -30,9 +30,10 @@ You need to setup your GOPATH, which is where all of your code will reside
 
 ```
 export GOPATH=/Users/mack/go
+
 ```
 
-### Let's Write a Simple Program<b>
+### Let's Write a Simple Program
 
 Open up your favorite editor and create a new file, put the content list below in the file and save it in /Users/mack/go/src/example/main.go
 

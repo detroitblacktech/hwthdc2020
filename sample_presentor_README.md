@@ -2,7 +2,7 @@
 
 ## Setting up GoLang
 
-There are a few ways to install GoLang
+There are a few ways to install GoLang (pick one)
 
 - ***On Mac***
 

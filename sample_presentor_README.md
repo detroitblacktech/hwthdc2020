@@ -4,19 +4,19 @@
 
 There are a few ways to install GoLang
 
-- On Mac
+- ***On Mac***
 
 ```
 brew install go
 ```
 
-- On Windows
+- ***On Windows***
 
  1. Download Go from here https://golang.org/dl/
  2. Install Go using the installer
 
 
-- Web Based Compiler (no need to install anything)
+- ***Web Based Compiler (no need to install anything)***
 
  1. Open a browser
  2. Go here https://play.golang.org/

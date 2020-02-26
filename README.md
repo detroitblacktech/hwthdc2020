@@ -16,6 +16,6 @@ This is the central location for all slides and code that's being presented at t
 | Security - Customer Identity and Access Management| Andrew Cameron | ||
 | Security - Secure By Design | Xavier D. Johnson | [View](https://docs.google.com/presentation/d/1OEmbTQlVDG493d5SmGluPkOBapwGncgMwX2W3QwD4BA/edit#slide=id.g7dc9958b7f_0_1)|[View](https://github.com/infenet/Application-and-Image-Security-Scans-in-CI-CD)
 | Your Tests Lack Vision: Adding Eyes to Your Automation Framework | Angie Jones ||
-| Kubernetes - Setting up your first cluster and deploying an app | Ofiliojo Ichaba ||
+| Kubernetes - Setting up your first cluster and deploying an app | Ofiliojo Ichaba | [View](https://docs.google.com/presentation/d/1CvKQrOaTpEPjSI_BWCAHdI-GsIydFwv5ieN7jvA9bv8/edit#slide=id.g7e92ecccc8_1_19)||
 
 ## Cheetsheets

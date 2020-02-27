@@ -9,7 +9,7 @@ This is the central location for all slides and code that's being presented at t
 
 | Topic | Speaker | Slides | Repository |
 | ------- | ----- | -------| ---------- |
-| Working with GoLang (aka GO) | Bryan Campbell | ||
+| Working with GoLang (aka GO) | Bryan Campbell | [View](https://docs.google.com/presentation/d/1kCbz8jE5LcFQNy3XxiItkSjcnAtHeO6hHTspeApeOQU)||
 | DevOps - Where Infrastructure and Coding Meets | Brianna Mccullough |[View](https://docs.google.com/presentation/d/1ybP9qfDoX5z6kbhKbHUzl9S0c8WdBvVETXMYK3BQ64k/edit?usp=sharing) ||
 | Blockchain Development using Solidity | Briant Anthony| ||
 | AI - Crawl, Walk, Run | Jeseekia Vaughn | ||

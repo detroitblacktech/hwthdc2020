@@ -11,7 +11,7 @@ This is the central location for all slides and code that's being presented at t
 | ------- | ----- | -------| ---------- |
 | Working with GoLang (aka GO) | Bryan Campbell | [View](https://docs.google.com/presentation/d/1kCbz8jE5LcFQNy3XxiItkSjcnAtHeO6hHTspeApeOQU)||
 | DevOps - Where Infrastructure and Coding Meets | Brianna Mccullough |[View](https://docs.google.com/presentation/d/1ybP9qfDoX5z6kbhKbHUzl9S0c8WdBvVETXMYK3BQ64k/edit?usp=sharing) ||
-| Blockchain Development using Solidity | Briant Anthony| ||
+| Blockchain - Decentralized Applications on the Ethereum blockchain | Briant Anthony| [View](https://docs.google.com/presentation/d/1eU_i8SgDr35GM27clTX2nBZV_zfSNWFmKNuS2PIfRsA/edit#slide=id.g7ec9632c6e_0_2)| [View](https://github.com/BriantAnthony/ethereum-dapp-demo)|
 | AI - Crawl, Walk, Run | Jeseekia Vaughn | ||
 | Digital Identity - Securing Your Customers | Andrew Cameron | [View](https://docs.google.com/presentation/d/1v2eFBXFNp8BeDNksNNsV6Xb7zZ6refbHdBfqFXoXUcg/)||
 | Security - Secure By Design | Xavier D. Johnson | [View](https://docs.google.com/presentation/d/1OEmbTQlVDG493d5SmGluPkOBapwGncgMwX2W3QwD4BA/edit#slide=id.g7e92ecccc8_1_19)|[View](https://github.com/infenet/Application-and-Image-Security-Scans-in-CI-CD)
